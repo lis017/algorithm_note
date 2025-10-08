@@ -1,0 +1,2 @@
+map에서 key만 뽑아올때
+-> map.keySet();            //여기서map은 map의 객체이름
