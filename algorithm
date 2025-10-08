@@ -1,2 +1,5 @@
 map에서 key만 뽑아올때
 -> map.keySet();            //여기서map은 map의 객체이름
+
+map에서 key에 해당하는 value값 뽑을때
+->map.get(key)              //value값 주르륵 다 나옴
