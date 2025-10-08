@@ -3,3 +3,4 @@ map에서 key만 뽑아올때
 
 map에서 key에 해당하는 value값 뽑을때
 ->map.get(key)              //value값 주르륵 다 나옴
+                            //value값 안사라짐
