@@ -5,3 +5,7 @@ map에서 key에 해당하는 value값 뽑을때
 ->map.get(key)              //value값 주르륵 다 나옴
                             //value값 안사라짐
                             //☆주소를 주는거라 받은애가 수정하면 원본도 바뀜
+
+행렬과 xy좌표의 구분법
+-> map, check등 2중배열등 접근은 r c(y x)
+나머지는 다 x y(c r)로 생각해도될듯
