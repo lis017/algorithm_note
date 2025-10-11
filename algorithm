@@ -1,4 +1,4 @@
-map에서 key만 뽑아올때
+map에서 key만 뽑아올때                                                                    //9328
 -> map.keySet();            //여기서map은 map의 객체이름
 
 map에서 key에 해당하는 value값 뽑을때
