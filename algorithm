@@ -10,6 +10,9 @@ map에서 키 추가
 -> map.put(key, value)
 //add등 없음. put으로만.
 
+map에서 키 값 존재하는지 체크
+-> map.containsKey(key)
+
 행렬과 xy좌표의 구분법
 -> map, check등 2중배열등 접근은 r c(y x)
 나머지는 다 x y(c r)로 생각해도될듯
