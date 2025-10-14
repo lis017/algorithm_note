@@ -3,3 +3,8 @@
 
 string을 바로 char배열에 받기
 -> char[] keyList = br.readLine().toCharArray();                     
+
+//2178
+map등에 붙은숫자를 chatAt() 으로 넣을경우
+-> map[i][j] = line.charAt(j) - '0';
+//문자 0 빼기
