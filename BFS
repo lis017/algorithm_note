@@ -1,1 +1,5 @@
-.에 해당하는 내용은(bfs함수에서) else안쓰고 해야돼!                        //9328
+//9328
+.에 해당하는 내용은(bfs함수에서) else안쓰고 해야돼!  
+
+string을 바로 char배열에 받기
+-> char[] keyList = br.readLine().toCharArray();                     
