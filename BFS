@@ -1,3 +1,5 @@
+check도 크기할당 해야함(map도 하잖아)
+
 bfs에서 cheak, visited의 뜻(기준)
 -> 방문직전(q에 넣으면 되는상황)or 방문하자마자 check가 true임.
 그 곳에서 4방향 다 체크하거나, 4방향 좌표를 q를 새로 다 넣어야 cheak가 아님
