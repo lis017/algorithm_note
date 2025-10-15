@@ -34,3 +34,5 @@ bw.close()
 //write로 여러번 쌓고 flush로 출력이다잉
 
 br에서 InputStreamReader앞에도 new 붙이자
+
+Arrays.sort에서 Comparator에서 c는 대문자로
