@@ -24,3 +24,11 @@ map에서 키 값 존재하는지 체크
 배열 정렬할때
 -> Arrays.sort(arr)
 //s뒤에 꼭 붙여라
+
+bw 출력법
+-> bufferedWriter bw = new BufferedWriter(OutputStreamWriter(System.out))
+bw.write(a + "\n")
+bw.flush()
+bw.close()
+//writer에 t 1개만
+//write로 여러번 쌓고 flush로 출력이다잉
