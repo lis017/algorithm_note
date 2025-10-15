@@ -14,3 +14,9 @@ string을 바로 char배열에 받기
 map등에 붙은숫자를 chatAt() 으로 넣을경우
 -> map[i][j] = line.charAt(j) - '0';
 //문자 0 빼기
+
+
+최단거리 기억안나면
+-> dist[][]를 이동거리배열로 써서
+map처럼 크기할당하고
+q에 추가할때마다 nx ny에 x y +1로 써도됨
