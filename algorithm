@@ -32,3 +32,5 @@ bw.flush()
 bw.close()
 //writer에 t 1개만
 //write로 여러번 쌓고 flush로 출력이다잉
+
+br에서 InputStreamReader앞에도 new 붙이자
