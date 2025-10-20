@@ -38,3 +38,5 @@ br에서 InputStreamReader앞에도 new 붙이자
 Arrays.sort에서 Comparator에서 c는 대문자로
 
 for에서 ,말고 ;써야한다잉
+
+arrayList에 추가는 add뿐
