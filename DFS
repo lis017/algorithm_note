@@ -1,0 +1,2 @@
+dfs함수에서 count와 check true위치
+-> bfs내부. for문 바깥
