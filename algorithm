@@ -41,3 +41,7 @@ for에서 ,말고 ;써야한다잉
 
 arrayList에 추가는 add뿐
 크기확인-> .size()
+
+st에서 토큰 남아있는지(while 조건등에 씀)
+-> st.hasMoreTokens()
+-> 마지막에 s꼭 넣기
