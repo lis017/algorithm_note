@@ -1,2 +1,2 @@
-Arrays.copyOfRange(array, 1, 4);
+int[] temp = Arrays.copyOfRange(array, 1, 4);
 ->array의 1번인덱스부터 3번인덱스까지(1, 2, 3) 복사.
