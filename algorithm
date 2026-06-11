@@ -2,54 +2,6 @@
 0%n 
 모두 값은 0이며 오류x
 
-
-초기값이 배열에 존재할경우
-배열의 크기를 N뿐만 아닌 입력제한등으로 크게 잡아야할수 있음
-
-map에서 key만 뽑아올때                                                                    //9328
--> map.keySet();            //여기서map은 map의 객체이름
-
 map에서 key에 해당하는 value값 뽑을때
-->map.get(key)              //value값 주르륵 다 나옴
-                            //value값 안사라짐
-                            //☆주소를 주는거라 받은애가 수정하면 원본도 바뀜
-
-map에서 키 추가
--> map.put(key, value)
-//add등 없음. put으로만.
-
-map에서 키 값 존재하는지 체크
--> map.containsKey(key)
-
-행렬과 xy좌표의 구분법
--> map, check등 2중배열등 접근은 r c(y x)
-나머지는 다 x y(c r)로 생각해도될듯
-
-
-//2178
-문자에서 문자빼면 int가 된다
-
-배열 정렬할때
--> Arrays.sort(arr)
-//s뒤에 꼭 붙여라
-
-bw 출력법
--> bufferedWriter bw = new BufferedWriter(OutputStreamWriter(System.out))
-bw.write(a + "\n")
-bw.flush()
-bw.close()
-//writer에 t 1개만
-//write로 여러번 쌓고 flush로 출력이다잉
-
-br에서 InputStreamReader앞에도 new 붙이자
-
-Arrays.sort에서 Comparator에서 c는 대문자로
-
-for에서 ,말고 ;써야한다잉
-
-arrayList에 추가는 add뿐
-크기확인-> .size()
-
-st에서 토큰 남아있는지(while 조건등에 씀)
--> st.hasMoreTokens()
--> 마지막에 s꼭 넣기
+->map.get(key)            
+//☆주소를 주는거라 받은애가 수정하면 원본도 바뀜
