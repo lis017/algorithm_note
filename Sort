@@ -2,10 +2,5 @@
 int[] temp = Arrays.copyOfRange(array, 1, 4);
 ->array의 1번인덱스부터 3번인덱스까지(1, 2, 3) 복사.
 
-[정렬]
-Arrays.sort(arr);
--> 오름차순 정렬(기본형, object형 다 됨)
--> 내림차순은 for문을 반대로 꺼내든가
-
 [숫자를 문자열로써 붙여서 대소비교]
 Arrays.sort(arr, (o1, o2) -> (o2+o1).compareTo(o1+o2));
